@@ -4,7 +4,7 @@ PixelCanvas Minimap is a Tampermonkey script which allows users to easily draw u
 ***
 ## Installing
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
-2. Click [here](https://raw.githubusercontent.com/kekw-420/TestRepo420/decentralized/minimap.user.js) and press the "Install" button.
+2. Click [here](https://github.com/kekw-420/pixelcanvas-minimap/raw/master/minimap.user.js) and press the "Install" button.
 3. Refresh the PixelCanvas.io page.
 ***
 ## Usage overview
